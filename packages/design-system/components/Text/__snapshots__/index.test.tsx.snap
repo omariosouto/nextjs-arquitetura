@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Text /> renders h1 tag 1`] = `
+<div>
+  <h2
+    class="sc-bczRLJ fZmQSK"
+  >
+    Sample Text
+  </h2>
+</div>
+`;
