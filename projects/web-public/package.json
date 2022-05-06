@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint './**/*.{ts,tsx}'"
   },
   "dependencies": {
     "styled-components": "5.3.5",
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@alura/tsconfig-commons": "*",
+    "@alura/eslint-commons": "*",
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^9.0.0"
   }
