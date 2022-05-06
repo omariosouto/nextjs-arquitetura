@@ -1,9 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Text /> renders h1 tag 1`] = `
+.c0 {
+  font-family: serif;
+}
+
 <div>
   <h2
-    class="sc-bczRLJ fZmQSK"
+    class="c0"
   >
     Sample Text
   </h2>
